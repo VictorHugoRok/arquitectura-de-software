@@ -1,5 +1,5 @@
 # arquitectura-de-software
-
+**Integrantes del Equipo**
 | Foto | Nombre | Perfil de GitHub |
 |------|--------|------------------|
 | ![Foto](url_de_la_foto_1) | Victor Hugo Rosado Koyoc |[GitHub](https://github.com/VictorHugoRok)|
